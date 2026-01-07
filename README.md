@@ -1,4 +1,4 @@
-#2D Monster Survival Game
+# 2D Monster Survival Game
 
 ## Project Overview
 A fast-paced 2D survival game where you control a hero trying to survive against waves of monsters while collecting power-ups. Built with C and RAFGL graphics library.
