@@ -1,6 +1,6 @@
-2D Monster Survival Game
+#2D Monster Survival Game
 
-
+## Project Overview
 A fast-paced 2D survival game where you control a hero trying to survive against waves of monsters while collecting power-ups. Built with C and RAFGL graphics library.
 
 Gameplay Features
@@ -24,3 +24,35 @@ Controls
     SPACE: Restart after death/victory
 
     ESC: Close game
+
+## What does game look like:
+   ![Main Interface](./RAFGL/screenshots/default.png)
+
+
+
+
+## Some of the features:
+ - Camera and fog following the character
+   
+   ![Main Interface](./RAFGL/screenshots/wall.png)
+
+   
+
+ - Active boost
+   
+   ![Main Interface](./RAFGL/screenshots/boost.png)
+
+
+
+ - Victory screen
+   
+   ![Main Interface](./RAFGL/screenshots/win.png)
+
+   
+
+ - Game over screen
+   
+   
+   ![Main Interface](./RAFGL/screenshots/lose.png)
+   
+   
